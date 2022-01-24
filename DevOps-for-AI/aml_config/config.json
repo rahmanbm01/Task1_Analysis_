@@ -1,0 +1,6 @@
+{
+    "subscription_id": "c983e5fa-8dec-4e4d-a6d8-c0ce115348fa",
+    "resource_group": "CCTwinApp",
+    "workspace_name": "SeeqAzureMLCCTwin",
+    "location": "eastus2" 
+}

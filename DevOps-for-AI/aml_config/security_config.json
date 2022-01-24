@@ -1,0 +1,14 @@
+{
+    "sp_user" : "<>",
+    "sp_password" : "<>",
+    "sp_tenant_id" : "<>",
+    "remote_vm_name" : "<>",
+    "remote_vm_username" : "<>",
+    "remote_vm_password" : "<>",
+    "remote_vm_ip" : "<>",
+
+    "aml_cluster_name":"SeeqAzureML1",
+    "vnet_resourcegroup_name":"CCTwinApp",
+    "vnet_name":"",
+    "subnet_name":""
+}
